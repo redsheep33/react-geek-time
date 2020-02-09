@@ -38,7 +38,7 @@ import "./index.css";
 
 const styles = {
   fontFamily: "sans-serif",
-  paddingLeft: "250px",
+  paddingLeft: "250px"
 };
 
 const routeMap = {
@@ -72,7 +72,7 @@ const routeMap = {
   "d3-sample": D3Sample,
   "dnd-sample": DndSample,
   "reselect-sample": ReselectSample,
-  suspense: Suspense,
+  suspense: Suspense
 };
 
 class App extends React.PureComponent {
