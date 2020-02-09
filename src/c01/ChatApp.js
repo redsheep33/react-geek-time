@@ -7,6 +7,7 @@ class MessageList extends React.PureComponent {
   }
 }
 
+
 export class ChatApp extends React.Component {
   state = {
     messages: [],
